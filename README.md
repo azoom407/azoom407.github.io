@@ -1,2 +1,2 @@
 # azoom407.github.io
-The website fpr Web Desing For Everyone
+The website for Web Desing For Everyone
